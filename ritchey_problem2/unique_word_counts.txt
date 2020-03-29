@@ -1,0 +1,15 @@
+broken 3
+macro 2
+edit 2
+max 1
+archive 2
+tools 2
+room 2
+search 4
+view 2
+problem 1
+alex 1
+steve 1
+window 1
+email 3
+table 1
